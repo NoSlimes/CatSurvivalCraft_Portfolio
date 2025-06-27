@@ -49,7 +49,7 @@ This repository contains select systems and prototypes developed for the game as
 
 ---
 
-## 🛠️ Dependencies
+## Dependencies
 
 - [Unity Netcode for GameObjects (NGO)](https://docs-multiplayer.unity3d.com/)
 - [Unity Input System](https://docs.unity3d.com/Packages/com.unity.inputsystem)
@@ -71,9 +71,9 @@ This repository contains select systems and prototypes developed for the game as
 
 ---
 
-## 👤 Author
+## Author
 
-Made with 🐈 by **NoSlimesJustCats**  
+Made with lots of 🐈 by **NoSlimesJustCats**  
 🔗 [github.com/NoSlimes](https://github.com/NoSlimes)
 
 ---
